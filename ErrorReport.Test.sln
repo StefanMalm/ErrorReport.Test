@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrorReport.Test", "ErrorReport.Test.csproj", "{26EF5517-48E9-405C-8A09-624A1A8E0B9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrorReportApi", "..\ErrorReportApi\ErrorReportApi.csproj", "{CC10EF1F-E7BA-457A-850E-C24A38C67B6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26EF5517-48E9-405C-8A09-624A1A8E0B9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26EF5517-48E9-405C-8A09-624A1A8E0B9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26EF5517-48E9-405C-8A09-624A1A8E0B9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26EF5517-48E9-405C-8A09-624A1A8E0B9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC10EF1F-E7BA-457A-850E-C24A38C67B6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC10EF1F-E7BA-457A-850E-C24A38C67B6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC10EF1F-E7BA-457A-850E-C24A38C67B6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC10EF1F-E7BA-457A-850E-C24A38C67B6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A96CC17-9B59-4C95-8BFF-2639BAAA7116}
+	EndGlobalSection
+EndGlobal
